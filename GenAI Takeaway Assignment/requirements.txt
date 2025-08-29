@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+pandas
+faiss-cpu
+rank-bm25
+scikit-learn
+python-dotenv
+beautifulsoup4
+pydantic
+sentence-transformers
+torch
+cohere
